@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/dimash-git.github.io/react-pomodoro/static/css/main.71223f60.css",
+    "main.js": "/dimash-git.github.io/react-pomodoro/static/js/main.c0d56c51.js",
+    "static/js/787.1ee58fdb.chunk.js": "/dimash-git.github.io/react-pomodoro/static/js/787.1ee58fdb.chunk.js",
+    "index.html": "/dimash-git.github.io/react-pomodoro/index.html",
+    "main.71223f60.css.map": "/dimash-git.github.io/react-pomodoro/static/css/main.71223f60.css.map",
+    "main.c0d56c51.js.map": "/dimash-git.github.io/react-pomodoro/static/js/main.c0d56c51.js.map",
+    "787.1ee58fdb.chunk.js.map": "/dimash-git.github.io/react-pomodoro/static/js/787.1ee58fdb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.71223f60.css",
+    "static/js/main.c0d56c51.js"
+  ]
+}
